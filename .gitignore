@@ -1,0 +1,8 @@
+# 个人论文库清单（Zotero 导出，含本机路径，不入公开仓库）
+csv/
+# ZCode 会话文件
+.zcode/
+# macOS
+.DS_Store
+__pycache__/
+*.pyc
